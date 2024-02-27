@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: design-system-v2-documentation
+  title: Design System v2 Documentation
+  description: Documentation for design system v2
+  annotations:
+    github.com/project-slug: bcgov/devhub-user-test-participant-1
+    backstage.io/techdocs-ref: dir:.
+    bcgovpubcode.gov.bc.ca/ministry: CITZ
+    bcgovpubcode.gov.bc.ca/program_area: GDX > OSS
+    bcgovpubcode.gov.bc.ca/product_name: B.C. Design System
+    bcgovpubcode.gov.bc.ca/product_acronym: bcds
+    bcgovpubcode.gov.bc.ca/product_owner: Ali Emery
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: group:default/design-system-team-admins

@@ -1,0 +1,11 @@
+version: 1
+data_management_roles:
+  product_owner: Ali Emery
+product_information:
+  ministry: CITZ
+  product_acronym: bcds
+  product_description: Documentation for design system v2
+  product_name: B.C. Design System
+  program_area: GDX > OSS
+product_technology_information:
+  hosting_platforms: Private-Cloud-Openshift
